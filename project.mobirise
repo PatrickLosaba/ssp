@@ -237,7 +237,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ssp-venue-copy-2000x1125-1-800x450.png",
-                "image": "@PROJECT_PATH@/assets/images/ssp-venue-copy-2000x1125-1.png",
+                "image": "@PROJECT_PATH@/assets/images/ssp-venue-copy-2000x1125_1.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -349,7 +349,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12377896-777021635735237-6559985985970195714-o-2000x1333-1-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12377896-777021635735237-6559985985970195714-o-2000x1333-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12377896-777021635735237-6559985985970195714-o-2000x1333_1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
