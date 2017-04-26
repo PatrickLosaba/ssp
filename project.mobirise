@@ -1,0 +1,681 @@
+{
+  "settings": {
+    "name": "SouthSide Picnic",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.10.5",
+    "uniqCompNum": 13,
+    "versionPublish": "3.10.5",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/south-side-picnic-save-the-date-tease-3-end-128x121.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "South Side Picnic",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/xrpT8-uh-vM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-0",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ssp-venue-copy-2000x1125.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/south-side-picnic-save-the-date-tease-3-2-insta-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "4th Annual <br>South Side Picnic",
+          "text": "DATE: 06 May 2017<br>VENUE: Lido Hotel (Lapa Area)<br>TIME 12:00 till 01:00",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "The South Side Picnic",
+          "meta": "By House Of Skillz&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Nothing like a refreshing day out in the sun ,away from all the Johannesburg busy life. With nothing but the best music from South Africa's top Dj's as well as young up and coming talents all under one roof showcasing some of the best Mzansi &amp; Internation Music has to offer with the likes of Dj's: ShordySkills|SpeedSta|Dj Khathu|MacG |Major league Djs| Chrizz Beats| Capital|Snow Deep | Dj Franky | Sliqe |Stokie | SeanKross &amp; Vino| Rogers | Bhutz| Kaznova | Skellz &amp; Masstashane|Malibu|Stumzar|Dj Rico| Teddy |Realm |DJ Grant\u000b, all of this done in South Side Picnic style. The South Side Picnic not only will there be great MUSIC, but our market will also be given a oportunity to experience &nbsp;TRUE SOUTH SIDE STYLE food from our food vendors that will be serving the best meals from their variety filled menues as they &nbsp;groove into the sunset by the poolside with their coolers &amp; picnic goodies. &nbsp;&nbsp;</p><p><br></p><p>Our target market is the young social upper LSM, aimed at both male &amp; females whoes ages range from 18years to 35years and we focus more on the employed youth when marketing, however the event is open to anybody above the age of 18years.</p><p><br></p><p>Since our first South Side Picnic in 2013, we have managed to maintain a steady growth pattern through the years and manged to secure a very good loyal clientel along the way, which has played a key factor in the positive growth factor in our foot traffic, sales as well as social popularity, influence and reputation within the social media platforms. Resulting in the growth within the target market reach.</p>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-5",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/xrpT8-uh-vM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=kSPpLE6u6yA",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Past Events",
+          "text": "The South Side Picnic",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ssp-venue-copy-2000x1125-1-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/ssp-venue-copy-2000x1125-1.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/905887-625259697578099-2905663221277929146-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/905887-625259697578099-2905663221277929146-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1957725-625125507591518-1111545463664572132-o-2000x1344-800x537.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1957725-625125507591518-1111545463664572132-o-2000x1344.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12377896-777021635735237-6559985985970195714-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12377896-777021635735237-6559985985970195714-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10547918-659847840785951-1118896373651660951-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10547918-659847840785951-1118896373651660951-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11043145-659848534119215-376654231631814134-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11043145-659848534119215-376654231631814134-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1932708-625125210924881-3948424423429019201-o-2000x1030-800x412.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1932708-625125210924881-3948424423429019201-o-2000x1030.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1557181-625123750925027-7573074993815512934-o-2000x2222-800x888.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1557181-625123750925027-7573074993815512934-o-2000x2222.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-6",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12080108-747642035339864-4861979658368166499-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12080108-747642035339864-4861979658368166499-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12377896-777021635735237-6559985985970195714-o-2000x1333-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12377896-777021635735237-6559985985970195714-o-2000x1333-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12362962-776974292406638-3809673373895145148-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12362962-776974292406638-3809673373895145148-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14258167-936082336495832-2747259544726371812-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14258167-936082336495832-2747259544726371812-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10856678-625256084245127-8596559262652518029-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10856678-625256084245127-8596559262652518029-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11053134-659847347452667-3951228532777505344-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11053134-659847347452667-3951228532777505344-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11054425-659848257452576-9176190642738184344-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11054425-659848257452576-9176190642738184344-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11018634-659849067452495-2643753281618698305-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11018634-659849067452495-2643753281618698305-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-7",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-c",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "EVENT DETAILS",
+          "subtitle1": "",
+          "caption1": "<p><b>• Venue:</b> Lido Hotel Lapa Area &nbsp; &nbsp; &nbsp; <br>&nbsp; (Kibler park/Eikenhof)\n<br>•&nbsp;<b>Time:</b> 12pm-2am\n<br>•&nbsp;<b>Date:</b> 29th  April 2017\n<br>•&nbsp;<b><i>R100 Presold R150 @ The Gate &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Limited Tickets</i></b>\n<br>• Cooler boxes allowed Till 5pm&nbsp;(Beers and Ciders only) R50\n<br>• Food and Drinks Will Sold at the Venue\n<br>Proposed Line up and Performances \n<br>Dj Kent Headliner\u000b<br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#content1-a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title2": "Promotion Plan &amp; Target Audience Analysis",
+          "subtitle2": "",
+          "caption2": "Design an attractive and intriguing digital flyer that will positively promote the event as well as Sponsorship brands involved\n<br> &nbsp;\n<br>Conservatively engage 10 000+ Facebook users by leveraging marketing team and entertainers’ accounts.\n<br> &nbsp;\n<br>Conservatively engage 5000+ Twitter users by leveraging marketing team and entertainers’ accounts.&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#content1-a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "Marketing Plan",
+          "subtitle3": "",
+          "caption3": "<b>Basics</b> \n<br>-Social Networks  (Instagram, Facebook and Twitter)\n<br>-Word of Mouth \n<br>-Flyers \n<br>-Banners\n<br>-Street Team \n<br>-Campus Invasion\n<br>\n<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#content1-a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Event Overview\r<div><br></div>",
+          "subtitle4": "",
+          "caption4": "The event that will be taking place on the 29th of April 2017 at Lido Hotel, Plot 17 Johannesburg road R82,Eikenhof.\n<br>&nbsp;\n<br>South Side Picnics gives you a refreshing a day out in the sun ,away from all the Johannesburg busy life. Where people all races and places come together to celebrate life in the south.\n<br>\n<br>The Event is a lifestyle pool party and will be taking place between 2:00pm &amp; 2:00am.\n<br>\n<br>The event will be limited to 2000 people only where tickets are obtained at Webtickets and at the door, promotional tickets will be given out To VIP’s &nbsp;<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#content1-a\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#c0a375",
+              "border-color": "#c0a375"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-9",
+          "_params": {
+            "iconsBgColor": "#c0a375",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "twitter",
+              "family": "socicon",
+              "active": true,
+              "link": "https://twitter.com/Shordyskills",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Twitter Reach",
+          "subtitle1": "Bootstrap 3 has been noted",
+          "caption1": "Followers: 3,667",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "instagram",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.instagram.com/shordyskills/",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Instagram",
+          "subtitle2": "One of Bootstrap 3s big points",
+          "caption2": "Followers: 2,601",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.facebook.com/shordy.sikhonde",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Facebook",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Followers: 4,992",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "link": "https://www.facebook.com/houseofskills/",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Website",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "https://www.facebook.com/houseofskills",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4></h4><h3><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sponsorship Details</span></h3><h3></h3><h5><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Marketing</span></li></ul></h5><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Extensive digital exposure - including promotions across all our social network platforms with a combined reach of 200 000 people.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Activations that will</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;give away tickets as well hand out scratch cards branded to boost engagement between Marketing Team as well as Target Market.&nbsp;</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">#SouthSidePicnics in the front and the VIP admission pass at the back.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Teaser promo videos as well as flyers to boost engagement&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">and bring back fun-filled memories to the Loyal clients. These will also be shared in our Marketing Teams combined reach.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">The use of a Live Drone Feed to capture the entire experience from a bird’s eye&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">view to boost foot traffic on the day to help reach capasity.</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p><p><span style=\"color: inherit; font-size: 1.07rem; line-height: 1.5; font-family: Montserrat, sans-serif;\">&nbsp;</span></p><h5><ul><li><span style=\"color: inherit; font-size: 1.07rem; line-height: 1.5;\">Return On Investment</span></li></ul></h5><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">As a sponsor, you will have first right of refusal when it comes to exposure and branding opportunities.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;The exposure our sponsors receive is immensely important to us; you will be consulted on event planning and artwork layout in order to maximise the entire campaign.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;There will be no competing brands marketed at your event and we will ensure that our sponsors receive the required exclusivity.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Your logo will appear prestigiously on all artwork.</span><br></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Your guests will receive exclusive invitations to the event.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our market consumes all variaties of Spirits, ranging from Vodka, GIN, Whiskey, Cognac as well as Champagne so you will have the benefit of exclusivity &nbsp;ascross on liquor ranges as well as the opotunity to brand the entire venue with your branding as well as benefit from the Live Drone shootting of the event with the venue branded in your brand &nbsp;during and post event when the picture are release.</span></li></ul><p></p><h5><br></h5><h5><br></h5><h5>Requested Amount</h5><h5>R 80 000.</h5><h5><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></h5><br><p></p>"
+        }
+      ]
+    }
+  }
+}
